@@ -1,5 +1,5 @@
 body{
-	background-image: url("wasd.jpg");
+	background-image: url("wasd.png");
 }
 h1 {
 	text-align: center;
@@ -7,7 +7,5 @@ h1 {
 }
 img{
 	text-align: center;
-}
-p {
-    color: #7B1113;
+	border-radius: 50%;
 }
