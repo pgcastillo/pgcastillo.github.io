@@ -1,12 +1,13 @@
-
+body{
+	background-image: url("wasd.jpg");
+}
 h1 {
+	text-align: center;
     color: #7B1113;
 }
 img{
-	float: right;
+	text-align: center;
 }
-
-
 p {
     color: #7B1113;
 }
